@@ -1,2 +1,2 @@
-spacekookie = 15
-igbc = 10
+spacekookie = 10
+igbc = 15
